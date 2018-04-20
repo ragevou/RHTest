@@ -21,10 +21,11 @@
 * Lean the empty plastic bottle to the birch.  
 ![](http://img1.russianfood.com/dycontent/images_upl/130/big_129583.jpg)
 
->Remember the place with the birch in the forest and go back home.  
-Wait one day.
+>Remember the place with the birch in the forest and go back home.
 
-3. After one day is over, go back to the forest.  
+3. Wait one day.
+
+4. After one day is over, go back to the forest.  
 * Find the birch with the leaned plastic bottle, which you left one day ago.  
 >The plastic bottle is filled with birch juice.  
 * Put the lid on the plastic bottle.
