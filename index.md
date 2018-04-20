@@ -1,6 +1,7 @@
 ### How to Get a Birch Juice
 
 >Make sure it’s early spring.
+
 1. Prepare for the forest walk.  
 * Get a _backpack_.  
 ![](https://cs.pikabu.ru/post_img/2013/05/01/9/1367416951_1082771769.jpg)
@@ -22,6 +23,7 @@
 
 >Remember the place with the birch in the forest and go back home.
 Wait one day.
+
 3. After one day is over, go back to the forest.
 * Find the birch with the leaned plastic bottle, which you left one day ago.
 >The plastic bottle is filled with birch juice.
